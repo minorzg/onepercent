@@ -21,8 +21,8 @@
 ## 🛠️ Stack Technique
 
 * **Frontend** : HTML5, CSS3 (Variables CSS, Flexbox, Grid responsive), JavaScript (ES6+ Vanille)
-* **Backend** : PHP 8.x (Architecture modulaire, sessions sécurisées)
-* **Base de données** : MySQL / MariaDB (Via PDO pour prévenir les injections SQL)
+* **Backend** : PHP (Architecture modulaire, sessions sécurisées)
+* **Base de données** : MySQL 
 * **Paiement** : API OxaPay (Merchant Integration)
 * **Gestion des mails** : API Resend (via cURL PHP)
 * **Hébergement** : InfinityFree (Apache / Webmail / SSL)
